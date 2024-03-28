@@ -1,0 +1,89 @@
+<form [formGroup]="form" novalidate (ngSubmit)="onSubmit()">
+  <mat-card class="shipping-card">
+    <mat-card-header>
+      <mat-card-title>Explore keywords</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <div class="row">
+        <div class="col">
+          <mat-form-field class="full-width">
+            <input matInput placeholder="Enter Keyword" formControlName="keyword">
+            @if (form.controls['keyword'].hasError('required')) {
+            <mat-error>Keyword is <strong>required</strong></mat-error>
+            }
+            <mat-hint align="end">{{form.controls['keyword'].value?.length ?? 0}} / 255</mat-hint>
+          </mat-form-field>
+        </div>
+
+        <div class="col">
+          <mat-form-field class="full-width">
+            <input matInput placeholder="Enter URL" formControlName="url">
+            @if (form.controls['url'].hasError('required')) {
+            <mat-error>Url is <strong>required</strong></mat-error>
+            }
+            <mat-hint align="end">{{form.controls['url'].value?.length ?? 0}} / 255</mat-hint>
+          </mat-form-field>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <mat-form-field class="full-width">
+            <mat-label>Search Engine</mat-label>
+            <mat-select formControlName="searchEngineTypes" multiple>
+              @for (engine of searchTypes; track engine) {
+              <mat-option [value]="engine.value">{{engine.name}}</mat-option>
+              }
+            </mat-select>
+            @if (form.controls['searchEngineTypes'].hasError('required')) {
+            <mat-error>Search Engine is <strong>required</strong></mat-error>
+            }
+          </mat-form-field>
+        </div>
+
+        <div class="col">
+          <mat-form-field class="full-width">
+            <input type="number" matInput placeholder="Enter Total Result" formControlName="total">
+            @if (form.controls['total'].hasError('required')) {
+            <mat-error>Total is <strong>required</strong></mat-error>
+            }
+
+            @if (form.controls['total'].hasError('min')) {
+            <mat-error>Total <strong>must be at least 1</strong></mat-error>
+            }
+
+            @if (form.controls['total'].hasError('max')) {
+            <mat-error>Total <strong>cannot exceed 200.</strong></mat-error>
+            }
+
+          </mat-form-field>
+        </div>
+      </div>
+
+
+
+
+
+
+    </mat-card-content>
+    <mat-card-actions>
+      <button mat-raised-button color="primary" type="submit">Submit</button>
+    </mat-card-actions>
+  </mat-card>
+</form>
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  <ng-container matColumnDef="searchEngine">
+    <th mat-header-cell *matHeaderCellDef> Search Engine </th>
+    <td mat-cell *matCellDef="let element"> {{searchTypeEnum[element.searchType]}} </td>
+  </ng-container>
+
+
+  <ng-container matColumnDef="numberResult">
+    <th mat-header-cell *matHeaderCellDef> Result </th>
+    <td mat-cell *matCellDef="let element"> {{element.numberResult}} </td>
+  </ng-container>
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+</table>
