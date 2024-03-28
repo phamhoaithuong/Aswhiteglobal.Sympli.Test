@@ -1,0 +1,14 @@
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+E:\Projects\Aswhiteglobal.Sympli\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll

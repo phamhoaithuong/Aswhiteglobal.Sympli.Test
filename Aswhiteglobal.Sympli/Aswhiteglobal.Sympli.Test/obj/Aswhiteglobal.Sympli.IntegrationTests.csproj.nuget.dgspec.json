@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli.IntegrationTests.csproj",
+        "projectName": "Aswhiteglobal.Sympli.IntegrationTests",
+        "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\Pham Hoai Thuong\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pham Hoai Thuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj": {
+                "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj"
+              },
+              "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj": {
+                "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj"
+              },
+              "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj": {
+                "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.9.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj",
+        "projectName": "Aswhiteglobal.Sympli",
+        "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj",
+        "packagesPath": "C:\\Users\\Pham Hoai Thuong\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pham Hoai Thuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj": {
+                "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj",
+        "projectName": "Sympli.Core",
+        "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj",
+        "packagesPath": "C:\\Users\\Pham Hoai Thuong\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pham Hoai Thuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj",
+        "projectName": "Sympli.Infrastructure",
+        "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Sympli.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Pham Hoai Thuong\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pham Hoai Thuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj": {
+                "projectPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

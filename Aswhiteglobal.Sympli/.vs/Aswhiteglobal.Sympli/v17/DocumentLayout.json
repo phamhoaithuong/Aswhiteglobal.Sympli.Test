@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0503B310-1F23-4497-908A-480454487E8B}|Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj|e:\\projects\\aswhiteglobal.sympli.test\\aswhiteglobal.sympli\\aswhiteglobal.sympli\\aswhiteglobal.sympli.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0503B310-1F23-4497-908A-480454487E8B}|Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj|solutionrelative:aswhiteglobal.sympli\\aswhiteglobal.sympli.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECDF85C-9F0D-4F1A-9E34-0C5E7B17A666}|Sympli.Infrastructure\\Sympli.Infrastructure.csproj|e:\\projects\\aswhiteglobal.sympli.test\\aswhiteglobal.sympli\\sympli.infrastructure\\services\\googleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECDF85C-9F0D-4F1A-9E34-0C5E7B17A666}|Sympli.Infrastructure\\Sympli.Infrastructure.csproj|solutionrelative:sympli.infrastructure\\services\\googleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0503B310-1F23-4497-908A-480454487E8B}|Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj|e:\\projects\\aswhiteglobal.sympli.test\\aswhiteglobal.sympli\\aswhiteglobal.sympli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0503B310-1F23-4497-908A-480454487E8B}|Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.csproj|solutionrelative:aswhiteglobal.sympli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECDF85C-9F0D-4F1A-9E34-0C5E7B17A666}|Sympli.Infrastructure\\Sympli.Infrastructure.csproj|e:\\projects\\aswhiteglobal.sympli.test\\aswhiteglobal.sympli\\sympli.infrastructure\\services\\searchenginefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECDF85C-9F0D-4F1A-9E34-0C5E7B17A666}|Sympli.Infrastructure\\Sympli.Infrastructure.csproj|solutionrelative:sympli.infrastructure\\services\\searchenginefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49515DD-D433-4A66-B5EE-D7D7E91D1D60}|Aswhiteglobal.Sympli.UnitTest\\Aswhiteglobal.Sympli.UnitTest.csproj|e:\\projects\\aswhiteglobal.sympli.test\\aswhiteglobal.sympli\\aswhiteglobal.sympli.unittest\\searchenginetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49515DD-D433-4A66-B5EE-D7D7E91D1D60}|Aswhiteglobal.Sympli.UnitTest\\Aswhiteglobal.Sympli.UnitTest.csproj|solutionrelative:aswhiteglobal.sympli.unittest\\searchenginetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107A650E-8ED2-4EFE-86A8-DE595C8DDCB8}|Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli.IntegrationTests.csproj|e:\\projects\\aswhiteglobal.sympli.test\\aswhiteglobal.sympli\\aswhiteglobal.sympli.test\\searchcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107A650E-8ED2-4EFE-86A8-DE595C8DDCB8}|Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli.IntegrationTests.csproj|solutionrelative:aswhiteglobal.sympli.test\\searchcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchEngineTest.cs",
+              "DocumentMoniker": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.UnitTest\\SearchEngineTest.cs",
+              "RelativeDocumentMoniker": "Aswhiteglobal.Sympli.UnitTest\\SearchEngineTest.cs",
+              "ToolTip": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.UnitTest\\SearchEngineTest.cs",
+              "RelativeToolTip": "Aswhiteglobal.Sympli.UnitTest\\SearchEngineTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:03:32.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchControllerTest.cs",
+              "DocumentMoniker": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\SearchControllerTest.cs",
+              "RelativeDocumentMoniker": "Aswhiteglobal.Sympli.Test\\SearchControllerTest.cs",
+              "ToolTip": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.Test\\SearchControllerTest.cs",
+              "RelativeToolTip": "Aswhiteglobal.Sympli.Test\\SearchControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:36:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aswhiteglobal.Sympli.http",
+              "DocumentMoniker": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.http",
+              "RelativeDocumentMoniker": "Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.http",
+              "ToolTip": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.http",
+              "RelativeToolTip": "Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-20T07:04:26.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleService.cs",
+              "DocumentMoniker": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Services\\GoogleService.cs",
+              "RelativeDocumentMoniker": "Sympli.Infrastructure\\Services\\GoogleService.cs",
+              "ToolTip": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Services\\GoogleService.cs",
+              "RelativeToolTip": "Sympli.Infrastructure\\Services\\GoogleService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvx0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:40:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\appsettings.json",
+              "RelativeDocumentMoniker": "Aswhiteglobal.Sympli\\appsettings.json",
+              "ToolTip": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Aswhiteglobal.Sympli\\appsettings.json",
+              "RelativeToolTip": "Aswhiteglobal.Sympli\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T08:40:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchEngineFactory.cs",
+              "DocumentMoniker": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Services\\SearchEngineFactory.cs",
+              "RelativeDocumentMoniker": "Sympli.Infrastructure\\Services\\SearchEngineFactory.cs",
+              "ToolTip": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Infrastructure\\Services\\SearchEngineFactory.cs",
+              "RelativeToolTip": "Sympli.Infrastructure\\Services\\SearchEngineFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:28:09.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

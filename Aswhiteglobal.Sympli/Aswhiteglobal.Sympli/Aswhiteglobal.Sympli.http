@@ -1,0 +1,51 @@
+@Aswhiteglobal.Sympli_HostAddress = https://localhost:7028
+
+
+POST {{Aswhiteglobal.Sympli_HostAddress}}/api/search
+Content-Type: application/json
+
+{
+  "total": 100,
+  "keyword": "e-settlements",
+  "url": "www.sympli.com.au",
+  "searchEngineTypes": [0,1]
+}
+
+###
+
+POST {{Aswhiteglobal.Sympli_HostAddress}}/api/search
+Content-Type: application/json
+
+{
+  "total": 10,
+  "keyword": "thuongph",
+  "url": "thuongph.com",
+  "searchEngineTypes": [0]
+}
+
+###
+
+POST {{Aswhiteglobal.Sympli_HostAddress}}/api/search
+Content-Type: application/json
+
+{
+  "total": 100,
+  "keyword": "thuongph",
+  "url": "thuongph.com",
+  "searchEngineTypes": [1]
+}
+
+###
+
+POST {{Aswhiteglobal.Sympli_HostAddress}}/api/search
+Content-Type: application/json
+
+{
+  "total": 10,
+  "keyword": "thuongph",
+  "url": "thuongph.com",
+  "searchEngineTypes": [0,1]
+}
+
+###
+

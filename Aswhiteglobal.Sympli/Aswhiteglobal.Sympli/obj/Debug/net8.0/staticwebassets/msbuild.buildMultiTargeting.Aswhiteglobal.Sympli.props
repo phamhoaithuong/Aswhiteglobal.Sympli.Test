@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aswhiteglobal.Sympli.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qgsxRLRY2bw5pgG48PF+Nn9Fbu29h0jWQRpB4sh/LOMD4S8DfoiFw83YLdvhqk7OOqDaP8veNI18yh80bZDYQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Aswhiteglobal.Sympli.Test\\Aswhiteglobal.Sympli\\Sympli.Core\\Sympli.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pham Hoai Thuong\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pham Hoai Thuong\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
